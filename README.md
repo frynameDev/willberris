@@ -1,1 +1,1 @@
-# willberris
+# willberris - Учебный проект
